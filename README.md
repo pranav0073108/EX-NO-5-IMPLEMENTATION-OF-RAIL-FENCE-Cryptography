@@ -1,5 +1,6 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
-
+## NAME: PRANAV K
+## REGNO: 2305001026
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
 
@@ -20,7 +21,7 @@ STEP-4: Arrange the characters of the keyword in sorted order and the correspond
 STEP-5: Read the characters row wise or column wise in the former order to get the cipher text.
 
 ## PROGRAM
-```
+```C
 #include <stdio.h>
 #include <string.h>
 
@@ -65,6 +66,7 @@ int main()
 }
 ```
 ## OUTPUT
+<img width="433" height="250" alt="image" src="https://github.com/user-attachments/assets/ef7ece0e-1d0c-48e4-8a53-204e241ad1e9" />
 
 
 ## RESULT
